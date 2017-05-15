@@ -39,6 +39,28 @@
 			<key>uuidString</key>
 			<string>BF201426-9CC3-4F04-8A4D-284D7A19E78F</string>
 		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>/oasparam</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2017-05-15T20:34:44Z</date>
+			<key>label</key>
+			<string>parameters:</string>
+			<key>modificationDate</key>
+			<date>2017-05-15T20:38:51Z</date>
+			<key>plainText</key>
+			<string>      - name: %filltext:name=name:width=50%
+        in: %fillpopup:name=in:default=path:...%
+        description: %fillarea:name=description:width=50:height=5%
+        required: %fillpopup:name=required:true:false%
+        type: %fillpopup:name=type:string:...%</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>23713231-FF80-4ED4-AC52-6094D9DBE56C</string>
+		</dict>
 	</array>
 </dict>
 </plist>
