@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>groupInfo</key>
+	<dict>
+		<key>expandAfterMode</key>
+		<integer>0</integer>
+		<key>groupName</key>
+		<string>OpenAPI Specification</string>
+		<key>notes</key>
+		<string></string>
+	</dict>
+	<key>snippetsTE2</key>
+	<array>
+		<dict>
+			<key>abbreviation</key>
+			<string>/oasget</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2017-05-15T19:59:52Z</date>
+			<key>label</key>
+			<string>get:</string>
+			<key>modificationDate</key>
+			<date>2017-05-15T20:14:43Z</date>
+			<key>plainText</key>
+			<string>  get:
+    tags: %filltext:name=tags:width=50%
+    summary: %filltext:name=summary:width=50%
+    description: %fillarea:name=description:width=50:height=5%
+    operationId: %filltext:name=operationId:width=50%
+    parameters:
+    
+    responses:
+    </string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>BF201426-9CC3-4F04-8A4D-284D7A19E78F</string>
+		</dict>
+	</array>
+</dict>
+</plist>
